@@ -13,4 +13,4 @@ php cek.php name
 ```
 
 ## Information
-Call "php check.php" for information on how to use it
+Call "php cek.php" for information on how to use it
